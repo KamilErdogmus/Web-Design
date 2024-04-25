@@ -13,4 +13,4 @@ Web Design projesi geliştirildi.
 
 # Link
 
-![Web Design](https://662a54c696c833b6ccb66c73--sparkly-palmier-23fc52.netlify.app/)
+[Web Design](https://662a54c696c833b6ccb66c73--sparkly-palmier-23fc52.netlify.app/)
