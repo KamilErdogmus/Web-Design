@@ -19,9 +19,9 @@ This project is a web design created using HTML and CSS. It features a clean and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web-design-project.git
+   git clone https://github.com/KamilErdogmus/Web-Design.git
    ```
-Open the index.html file in your browser to view the website.
+2. Open the index.html file in your browser to view the website.
 
 ## GIF
 
